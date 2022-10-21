@@ -3,6 +3,7 @@ package project;
 //create class that has operations create new, get first node, add node at the end, print
 public class SinglyLinkedList {
 
+    // TODO ¿Cómo se podría mejorar para que permita agregar un nodo en la posición i?
     //create class node
     class Node {
         //atributes data and next
